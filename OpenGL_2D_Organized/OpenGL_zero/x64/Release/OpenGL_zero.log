@@ -1,0 +1,15 @@
+﻿  stb.cpp
+  game.cpp
+  game_level.cpp
+  game_object.cpp
+  main.cpp
+C:\Universita\Anno 2024-2025\Informatica grafica\Progetto\OpenGL\OpenGL_InformaticaGrafica\OpenGL_2D_Organized\OpenGL_zero\src\main.cpp(89,27): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  resource_manager.cpp
+  shader.cpp
+  texture.cpp
+  glad.c
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 701 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  OpenGL_zero.vcxproj -> C:\Universita\Anno 2024-2025\Informatica grafica\Progetto\OpenGL\OpenGL_InformaticaGrafica\OpenGL_2D_Organized\x64\Release\OpenGL_zero.exe
